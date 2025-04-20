@@ -39,8 +39,7 @@ This dashboard tracks the growth and trends in Electric Vehicle (EV) sales acros
 - **Customer Preferences**: Analyzes customer preferences for different EV types (e.g., sedans, SUVs).
 
 **Link to Dashboard**:  
-[View EV Sales in India Dashboard](https://app.powerbi.com/groups/me/reports/d5d0dd86-c22a-4306-bd80-54f461737eee?pbi_source=desktop)
-
+[View EV Sales in India Dashboard](https://app.powerbi.com/groups/me/reports/239bbfbc-89eb-4bcc-87a3-1e6235f02da2/ffe925d4cf0ac82cfa81?experience=power-bi)
 ---
 
 ## Features
